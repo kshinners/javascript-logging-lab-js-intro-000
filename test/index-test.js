@@ -43,6 +43,3 @@ describe('index', () => {
     })
   })
 })
-
-console.error("Halp!")
-console.log("Logger.")
